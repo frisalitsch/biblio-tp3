@@ -1,0 +1,21 @@
+html {
+	font-family: sans-serif;
+	font-size: 14pt;
+	color: darkgrey;
+	background-color: lightgrey;
+}
+body {
+	width: 1200px;
+	margin-top: 20px;
+	height: 100%;
+	}
+
+.center {
+	margin: 0 auto;
+}
+
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+   
+}
